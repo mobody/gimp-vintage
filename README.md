@@ -1,7 +1,6 @@
 # gimp-vintage
 
-![alt text](https://github.com/mobody/gimp-vintage/blob/master/orig.jpg "original image")
-![alt text](https://github.com/mobody/gimp-vintage/blob/master/vint.jpg "filter applied image")
+![original](https://github.com/mobody/gimp-vintage/blob/master/orig.jpg "original image") ![vintage](https://github.com/mobody/gimp-vintage/blob/master/vint.jpg "filter applied image")
 ## plugin
 
 This is a fork of [El Samukos gimp-fu](https://sites.google.com/site/elsamuko/gimp/vintage) script mm1-vintage-look. I added the ability of changing the Bypass opacity.
