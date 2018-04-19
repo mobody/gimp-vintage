@@ -19,7 +19,7 @@ batch-vintage takes 6 arguments:
 
 + pattern
 + opacity cyan layer
-+ opacity purple layer
++ opacity magenta layer
 + opacity yellow layer
 + bypass?
 + opacity bypass
